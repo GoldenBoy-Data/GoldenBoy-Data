@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GoldenBoy-Data
+- 👀 I’m interested in ... Data Analytics , UX/UI
+- 🌱 I’m currently learning ... SQL, R, DAX, Python, Tableau, & Power BI
+- 💞️ I’m looking to secure a Data Analytics job in Atlanta, GA or remotely
+- 📫 How to reach me ... luke13golden@gmail.com
